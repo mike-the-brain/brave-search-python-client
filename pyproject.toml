@@ -78,6 +78,7 @@ dependencies = [
     # Custom
     "tenacity>=9.1.2",
     # Nothing yet
+    "httpx>=0.28.1"
 ]
 
 [project.optional-dependencies]
